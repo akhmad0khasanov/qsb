@@ -18,8 +18,6 @@ Upgrade to the full version to unlock:
 
 ---
 
----
-
 ## License
 
 This software is provided free for **personal, non-commercial use only**.
