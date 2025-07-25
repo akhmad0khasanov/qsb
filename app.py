@@ -1,8 +1,6 @@
 
 import streamlit as st # for interface
 
-import plotly as pl # for graphs
-
 from datetime import datetime # for data
 
 import yfinance as yf # stocks and forex
