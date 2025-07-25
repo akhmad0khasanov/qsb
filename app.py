@@ -9,7 +9,6 @@ import yfinance as yf # stocks and forex
 
 import pandas_ta as ta # indicators
 
-import plotly as pl # graphs
 import plotly.graph_objects as go # graphs
 
 st.title('QuantSight Backtester Lite')
